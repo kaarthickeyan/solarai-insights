@@ -1,4 +1,6 @@
 import React from "react";
+import SolarPanel from "../assets/Solar_panel.jpg";
+
 
 function ProjectOverview() {
   return (
@@ -16,7 +18,7 @@ function ProjectOverview() {
         </div>
         <div className="image-content">
           <img
-            src="/path-to-image/solar-panels.jpg"
+            src={SolarPanel}
             alt="Solar Panels"
             className="responsive-image"
           />
