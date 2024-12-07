@@ -1,4 +1,5 @@
 import React from "react";
+import BoostConverterImage from "../assets/Interleaved_Boost_Converted.jpg"; 
 
 function DynamicDutyCycle() {
   return (
@@ -6,7 +7,7 @@ function DynamicDutyCycle() {
       <div className="section-container">
         <div className="image-content">
           <img
-            src="C:\Users\gandhi72\Documents\Solar_Research\solarai-insights\src\assets\Interleaved_Boost_Converted.jpg"
+            src={BoostConverterImage}
             alt="Boost Converter"
             className="responsive-image"
           />
@@ -26,3 +27,4 @@ function DynamicDutyCycle() {
 }
 
 export default DynamicDutyCycle;
+
