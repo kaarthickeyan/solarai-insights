@@ -6,7 +6,7 @@ function DynamicDutyCycle() {
       <div className="section-container">
         <div className="image-content">
           <img
-            src="/path-to-image/boost-converter.jpg"
+            src="C:\Users\gandhi72\Documents\Solar_Research\solarai-insights\src\assets\Interleaved_Boost_Converted.jpg"
             alt="Boost Converter"
             className="responsive-image"
           />
