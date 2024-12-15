@@ -2,7 +2,7 @@ import React from "react";
 
 function Applications() {
   return (
-    <section className="section">
+    <section className="section alt-section">
       <div className="section-container">
         <div className="text-content">
           <h2>Applications and Impact</h2>
