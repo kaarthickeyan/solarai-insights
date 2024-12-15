@@ -9,11 +9,9 @@ function Results() {
       <div className="results-grid">
         <div className="result-item">
           <img src={HardwareResult} alt="Result 1" />
-          <p>Hardware Results</p>
         </div>
         <div className="result-item">
           <img src={Converge_result} alt="Result 2" />
-          <p>Converge Graph results</p>
         </div>
         {/* Add more result items as needed */}
       </div>
